@@ -46,7 +46,7 @@ function App() {
                 <NavMenu menuActive={menuActive} MenuHandler={menuHandler} setCursorScale={setCursorScale}/>
             </AnimatePresence>
             <motion.div
-                className={` w-10 h-10 fixed left-0 top-0 border-2 border-[#3ebf4f] rounded-full z-50 transition  ease-out duration-200 pointer-events-none`}
+                className={` w-10 h-10 fixed left-0 top-0 border-2 border-[#3ebf4f] hidden lg:flex rounded-full z-50 transition  ease-out duration-200 pointer-events-none`}
                 style={{
                     translateX: cursorXSpring,
                     translateY: cursorYSpring,
@@ -55,7 +55,7 @@ function App() {
                 }}
 
             ></motion.div>
-            <main className={'px-5 myFont mx-auto 2xl:container w-full h-auto cursor-none overflow-hidden'}
+            <main className={'px-5 myFont mx-auto 2xl:container w-full h-auto lg:cursor-none overflow-hidden'}
                   dir={'rtl'}
             >
                 <Hero setCursorScale={setCursorScale}/>
