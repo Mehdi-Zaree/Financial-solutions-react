@@ -29,7 +29,7 @@
 - animation (framer-motion)
   
 ## :page_facing_up: Description
-Hi there, here I am with a component base react landing page for a financial company, animated with framer-motion. </br>
+Hi there, here I am with a component-based react landing page for a financial company, animated with framer-motion. </br>
 developed by: Mehdi Zarei</br>
 supervised by: Parsa Ghorbanian</br>
 date:2024/8/12
