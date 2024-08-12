@@ -23,10 +23,10 @@ master branch : code's source
 
 
 ## :computer: Technologies 
--react (yarn)
--react hooks
--tailwind CSS (responsive)
--framer motion (animation library)
+- react(vite)
+- react hooks
+- tailwind CSS (responsive)
+- animation (framer-motion)
   
 ## :page_facing_up: Description
 Hi there, here I am with a component base react landing page for a financial company, animated with framer-motion. </br>
