@@ -1,4 +1,5 @@
-# React + Vite
+# Financial-solutions-React(vite)
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
@@ -25,8 +26,6 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
