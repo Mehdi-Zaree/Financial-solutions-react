@@ -4,8 +4,8 @@
 
 <p align="center">
 <a href='https://financial-solutions-react.vercel.app/'>live demo</a> .
-<a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">report bug</a> .
-<a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">requesting feature</a></p>
+<a href="https://github.com/Mehdi-Zaree/Financial-solutions-react/issues">report bug</a> .
+<a href="https://github.com/Mehdi-Zaree/Financial-solutions-react/issues">requesting feature</a></p>
 </p>
 
 ![Screenshot from 2024-08-12 16-02-19](https://github.com/user-attachments/assets/416d9f4b-3bba-4bb3-8e5a-8f606353a56d)
