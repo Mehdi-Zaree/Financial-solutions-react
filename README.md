@@ -1,9 +1,7 @@
 # Financial-solutions-react
-feature branch: live demo and description </br>
-master branch: code's source 
-<p>
-  what's good?
-</p>
+- feature branch: live demo and description </br>
+- master branch: code's source 
+
 <p align="center">
 <a href='https://financial-solutions-react.vercel.app/'>live demo</a> .
 <a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">report bug</a> .
