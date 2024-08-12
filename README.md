@@ -19,13 +19,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 
@@ -99,8 +92,7 @@ Project Link: (https://github.com/Mehdi-Zaree/Financial-solutions-react/)
 Things that have been useful for me in developing this project.
 
 * [glassMorphism](https://css.glass/)
-* [custom Cusror of levon arakelyan](https://github.com/lvnr)
-* [levon arakelyan](@lvrn)
+* [custom Cusror of Levon arakelyan](https://github.com/lvnr/cool-custom-cursors-part-1)
 * [Font Awesome](https://fontawesome.com)
 * [Framer motion](https://www.framer.com/motion/)
 
