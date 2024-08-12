@@ -39,7 +39,7 @@
 * 	![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -59,7 +59,6 @@
 
 open project on port : http://localhost:5173/
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -81,7 +80,7 @@ Mehdi Zarei - [linkedIn](https://linkedin.com/in/mehdi-zri) - mahdizarei22019@gm
 
 Project Link: (https://github.com/Mehdi-Zaree/Financial-solutions-react/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -96,7 +95,6 @@ Things that have been useful for me in developing this project.
 * [Framer motion](https://www.framer.com/motion/)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
