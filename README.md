@@ -18,8 +18,8 @@
 
 | color     | hex |
 | ----------- | ----------- |
-| primary    | #0d1117|
-|background color |#0D1117|
+| primary    | `#6EE692`|
+|background color |`#0D1117`|
 
 
 ## :computer: Technologies 
