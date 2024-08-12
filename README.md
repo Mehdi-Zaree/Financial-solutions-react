@@ -36,6 +36,8 @@ date:2024/8/12
 ## :iphone: Contact
 - [instagram](https://instagram.com/mehdi_zarei-web)
 - [linkedin](https://linkedin.com/in/mehdi-zri)
-- [E-mail](mahdizarei22019@gmail.com)
+- [E-mail](mailto:mahdizarei22019@gmail.com)
+- [phone](+989366334236)
+  
 
  
