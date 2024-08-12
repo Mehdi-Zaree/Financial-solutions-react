@@ -1,6 +1,6 @@
 # Financial-solutions-react
-feature branch : live demo and description 
-master branch : code's source 
+feature branch: live demo and description </br>
+master branch: code's source 
 <p>
   what's good?
 </p>
