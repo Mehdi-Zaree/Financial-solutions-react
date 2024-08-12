@@ -10,7 +10,7 @@ master branch : code's source
 <a href="https://github.com/Mehdi-Zaree/newspaper-grid/issues">requesting feature</a></p>
 </p>
 
-![Screenshot from 2024-08-12 16-02-28](https://github.com/user-attachments/assets/67f2618f-5df4-4465-a069-499da72ad1eb)
+![Screenshot from 2024-08-12 16-29-36](https://github.com/user-attachments/assets/a14d9f96-9bdb-4010-ab74-54aa83a31011)
 ![Screenshot from 2024-08-12 16-02-19](https://github.com/user-attachments/assets/416d9f4b-3bba-4bb3-8e5a-8f606353a56d)
 
 
